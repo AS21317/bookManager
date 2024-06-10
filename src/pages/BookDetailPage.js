@@ -1,4 +1,3 @@
-import { AiFillYoutube, AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { RiLinkedinFill } from "react-icons/ri";
 import { Link, useLocation, useNavigate, useParams } from "react-router-dom";
 
