@@ -2,7 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to run this in local machine:
+first clone the git repo
+now run command ##npm i
+now run command nmp start
+
+##Live link for project is: https://book-manager-liart.vercel.app/
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
