@@ -130,7 +130,7 @@ const BookDetailPage = (props) => {
             
           </div>
 
-        <div className="flex  mt-[20px] border-b border-solid border-[#0066ff34]">
+        <div className="flex flex-wrap gap-4  mt-[20px] border-b border-solid border-[#0066ff34]">
         <button
             onClick={() => {setTab("publisher");setActive("publisher")}}
             className={`${
@@ -142,7 +142,7 @@ const BookDetailPage = (props) => {
           <button
             onClick={() => {setTab("dates");setActive("dates")}}
             className={`${
-              tab === "dates" && "border-b border-solid border-primaryColor"
+              tab === "dates" && "border-b-2 border-solid border-blue-600"
             } py-2 px-5 mr-5 text-[16px] leading-7 text-headingColor font-semibold`}
           >
             Publish Dates
@@ -152,7 +152,7 @@ const BookDetailPage = (props) => {
           <button
             onClick={() => {setTab("contributors");setActive("contributors")}}
             className={`${
-              tab === "contributors" && "border-b border-solid border-primaryColor"
+              tab === "contributors" && "border-b-2 border-solid border-blue-600"
             } py-2 px-5 mr-5 text-[16px] leading-7 text-headingColor font-semibold`}
           >
             Contributors
