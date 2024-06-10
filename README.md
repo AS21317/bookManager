@@ -14,7 +14,7 @@ This application is built using React and does [describe what the app does].
 - [Search Books]
 - [See Book details by clicking on see detail button]
 - [Add book to your personal Bookshelf]
-- - [You can also remove book form your personal shelf]
+-  [You can also remove book form your personal shelf]
 
 ## Technologies Used
 
@@ -25,19 +25,36 @@ This application is built using React and does [describe what the app does].
 
 ## Contributors
 
-- [Your Name]
+- [Ashish Singh]
 
 ## License
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-## Steps to run this in local machine:
-first clone the git repo.
-now run command ##npm i.
-now run command nmp start
+# My Awesome React App
+
+Welcome to my awesome React application! This application does amazing things.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+git clone <repository_url>
+
+
+
+2. Install dependencies:
+npm install
+
+
+
+3. Start the application:
+   npm start
 
 ##Live link for project is: https://book-manager-liart.vercel.app/
+
 ## Available Scripts
 
 
