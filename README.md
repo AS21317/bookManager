@@ -1,8 +1,65 @@
+# My Awesome React App
+Welcome to my awesome React application! This application does amazing things.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+git clone repository_url>](https://github.com/AS21317/bookManager.git
+
+
+
+2. Install dependencies:
+npm install
+
+
+
+3. Start the application:
+   npm start
+
+##Live link for project is: https://book-manager-liart.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Now, you should be able to access the application at `http://localhost:3000` in your web browser.
+
+## Description
+
+This application is built using React and does [describe what the app does].
+
+## Features
+
+- [Search Books]
+- [See Book details by clicking on see detail button]
+- [Add book to your personal Bookshelf]
+-  [You can also remove book form your personal shelf]
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Contributors
+
+- [Ashish Singh]
+
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+
+
+
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
