@@ -1,3 +1,25 @@
+# My Awesome React App
+Welcome to my awesome React application! This application does amazing things.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+git clone repository_url>](https://github.com/AS21317/bookManager.git
+
+
+
+2. Install dependencies:
+npm install
+
+
+
+3. Start the application:
+   npm start
+
+##Live link for project is: https://book-manager-liart.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -32,28 +54,8 @@ This application is built using React and does [describe what the app does].
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-# My Awesome React App
-
-Welcome to my awesome React application! This application does amazing things.
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-git clone <repository_url>
 
 
-
-2. Install dependencies:
-npm install
-
-
-
-3. Start the application:
-   npm start
-
-##Live link for project is: https://book-manager-liart.vercel.app/
 
 ## Available Scripts
 
